@@ -32,7 +32,7 @@ and looks up some prices for the customer.
 After recording his notes,
 the rep then decides that this ticket needs to be passed onto customer service.
 
-Our sales rep can simply un-assign himself has the **owner** of the ticket
+Our sales rep can simply un-assign himself as the **owner** of the ticket
 and re-assign the ticket to the Customer Service **group**.
 *All customer service agents will be notified of the incoming ticket*,
 and the first available agent can assign herself
